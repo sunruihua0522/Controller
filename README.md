@@ -1,0 +1,3 @@
+# Controller
+Android remote control
+利用Arduino与ESP8266构建遥控小车，APP使用AndroidStdio简单的socket客户端构建长连接，利用手机方向传感器控制小车前进后退，左转右转
